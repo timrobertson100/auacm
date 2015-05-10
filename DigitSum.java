@@ -1,3 +1,9 @@
+/**
+ * Digit Sum 2013 Mid-Central
+ * Author: Chih-Jye Wang
+ * Date  : May 9, 2015
+ */
+
 import java.util.*;
 
 public class DigitSum {
