@@ -1,3 +1,9 @@
+/**
+ * Text Roll 2013 Southeast
+ * Author: Chih-Jye Wang
+ * Date  : June 6, 2015
+ */
+
 import java.util.*;
 
 public class TextRoll {
